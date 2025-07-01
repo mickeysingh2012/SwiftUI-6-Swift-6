@@ -1,0 +1,1 @@
+This is a iOS project using SwiftUI6 and Swift6.  It converts currency.
